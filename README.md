@@ -24,7 +24,7 @@ Open [http://localhost:5173/](http://localhost:5173/) with your browser to see t
    - When you first access the website, you will see the Income and Expenses navigation links at the top of the page.
    - Click on the "Income" link to access the Income Transactions page or the "Expenses" link to access the Expense Transactions page.
 
-#### **Managing Income Transactions:**
+### **Managing Income Transactions:**
 
 2. **Income Transactions Page:**
 
@@ -48,7 +48,7 @@ Open [http://localhost:5173/](http://localhost:5173/) with your browser to see t
    - If you want to clear all your income transactions at once, click the "Clear All" button at the bottom of the page.
    - This action will remove all income transactions from the list.
 
-#### **Managing Expense Transactions:**
+### **Managing Expense Transactions:**
 
 6. **Expense Transactions Page:**
 
