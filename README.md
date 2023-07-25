@@ -12,11 +12,11 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173/](http://localhost:5173/) with your browser to see the result.
+Open [http://localhost:5173/](http://localhost:5173/) with your local browser to see the result.
 
 ### Live Link
 
-[http://localhost:5173/](http://localhost:5173/)
+[income-expense-tracker-vite-react-ts](https://income-expense-tracker-vite-react-ts.netlify.app/)
 
 ## Site Details
 
