@@ -49,7 +49,7 @@ Open [http://localhost:5173/](http://localhost:5173/) with your browser to see t
    - If you want to clear all your income transactions at once, click the "Clear All" button at the bottom of the page.
    - This action will remove all income transactions from the list.
 
- <ul>**Managing Expense Transactions:**</ul>
+ <ul>Managing Expense Transactions:</ul>
 
 6. **Expense Transactions Page:**
 
