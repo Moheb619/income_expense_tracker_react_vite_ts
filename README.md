@@ -18,7 +18,7 @@ Open [http://localhost:5173/](http://localhost:5173/) with your local browser to
 
 [income-expense-tracker-vite-react-ts](https://income-expense-tracker-vite-react-ts.netlify.app/)
 
-## Site Details
+## Income Expense Tracker
 
 1. **Homepage:**
 
